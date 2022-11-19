@@ -9,7 +9,7 @@ public class Cartao {
         return saldoAtual;
     }
     public void setSaldoAtual(int saldoAtual) {
-        this.saldoAtual = saldoAtual;
+        this.saldoAtual = saldoAtual ;
     }
     public int getSaldoTickets() {
         return saldoTickets;
